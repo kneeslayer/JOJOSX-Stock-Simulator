@@ -2,7 +2,7 @@
 
 Welcome to JOJOSX Stock Trading Platform !!
 
-This was my programming fundamentals final project, hope you learn from it.
+This was my programming fundamentals final project, written in C++. I recommend you to run it on a linux distro. Also the compiler I used was G++, so keep that in mind. Other than that , I hope that whoever stumbles upon this repo learns from it and become a great programmer :).
 
 When first loading the program make sure you have all the files required. 
 They are:
