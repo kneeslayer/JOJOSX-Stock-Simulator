@@ -1,0 +1,37 @@
+ATRL,Attock Refinery Ltd.,1828.89
+AVN,Avanceon Ltd. Consolidated,68.8735
+BAHL,Bank AL-Habib Ltd.,114.676
+CHCC,Cherat Cement Company Ltd.,88.8237
+DAWH,Dawood Hercules Corporation Ltd. Consolidated,179.145
+DGKC,D. G. Khan Cement Company Ltd.,21.9496
+EFERT,Engro Fertilizers Ltd.,53.4691
+ENGRO,Engro Corporation Ltd. Consolidated,139.144
+FFBL,Fauji Fertilizer Bin Qasim Ltd. Consolidated,36.294
+FFC,Fauji Fertilizer Company Ltd. Consolidated,65.8322
+GHNI,Ghandhara Industries Ltd.,29.4559
+HBL,Habib Bank Ltd.,33.8372
+HUBC,The Hub Power Company Ltd. Consolidated,163.783
+ICI,I.C.I Pakistan Ltd. Consolidated,581.175
+IGIHL,IGI Holdings Ltd. Consolidated,71.243
+INIL,International Industries Ltd. Consolidated,31.7725
+ISL,International Steels Ltd.,64.6902
+KAPCO,Kot Addu Power Company Ltd.,74.0005
+LUCK,Lucky Cement Ltd. Consolidated,240.046
+MARI,Mari Petroleum Company Ltd.,1181.78
+MCB,MCB Bank Ltd.,344.741
+MEBL,Meezan Bank Ltd.,20.2877
+MLCF,Maple Leaf Cement Factory Ltd. Consolidated,46.1206
+MTL,Millat Tractors Ltd. Consolidated,202.83
+NML,Nishat Mills Ltd. Consolidated,61.6883
+OGDC,Oil & Gas Development Company Ltd.,31.9886
+PAEL,Pak Elektron Ltd.,55.8814
+PIOC,Pioneer Cement Ltd.,39.3791
+PKGS,Packages Ltd. Consolidated,112.385
+POL,Pakistan Oilfields Ltd.,556.826
+PPL,Pakistan Petroleum Ltd.,124.123
+PSO,Pakistan State Oil Company Ltd. Consolidated,58.4781
+SEARL,The Searl Company Ltd. Consolidated,31.406
+SYS,Systems Ltd.,221.349
+TRG,TRG Pakistan Ltd.,65.2135
+UBL,United Bank Ltd.,40.6578
+UNITY,Unity Foods Ltd.,64.09
