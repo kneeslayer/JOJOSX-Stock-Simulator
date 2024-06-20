@@ -11,7 +11,7 @@ When first loading the program make sure you have all the files required. They a
 
 These are required for the proper functioning of the program as they arent created automaticaly by program. 
 
-Main Fucntion:
+Main Function:
      
      In the main function, I declared all variables that were going to be used.
      Then I initialized the variables approriaptly. 
