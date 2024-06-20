@@ -1,6 +1,6 @@
 # JOJOSX-Stock-Simulator
 
-Welcome to JOJO_SX Stock Trading Platform !!
+Welcome to JOJOSX Stock Trading Platform !!
 
 This was my programming fundamentals final project, hope you learn from it.
 
