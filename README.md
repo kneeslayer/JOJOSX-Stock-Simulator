@@ -4,9 +4,10 @@ Welcome to JOJO_SX Stock Trading Platform !!
 
 This was my programming fundamentals final project, hope you learn from it.
 
-When first loading the program make sure you have all the files required. They are :
-    1. "companies.txt": contains stock symbol, name and price
-    2. "portfolio.txt": contains owned stock and shares, prev and current balance 
+When first loading the program make sure you have all the files required. 
+They are :
+	1. "companies.txt": contains stock symbol, name and price
+ 	2. "portfolio.txt": contains owned stock and shares, prev and current balance 
        and also the prev and current networth of all shares owned. 
 
 These are required for the proper functioning of the program as they arent created automaticaly by program. 
